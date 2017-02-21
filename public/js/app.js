@@ -19,8 +19,7 @@ class Product extends React.Component {
         <div className='middle aligned content'>
           <div className='description'>
           <a>Fort Knight</a>
-          <p>Authentic</p>
-          <p>Bdoggy, you the programming man</p>
+          <p>Authentic Bdogg you the man</p>
         </div>
         <div className='extra'>
           <span>Submitted</span>
