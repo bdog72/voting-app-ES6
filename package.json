@@ -12,7 +12,8 @@
   "private": true,
   "devDependencies": {
     "concurrently": "2.2.0",
-    "live-server": "git://github.com/acco/live-server.git"
+    "live-server": "git://github.com/acco/live-server.git",
+    "surge": "^0.18.0"
   },
   "dependencies": {
     "semantic-ui": "git://github.com/Semantic-Org/Semantic-UI.git#27d58a01793b66318478fbc5b6676804d22d065d"
