@@ -20,6 +20,7 @@ class Product extends React.Component {
           <div className='description'>
           <a>Fort Knight</a>
           <p>Authentic</p>
+          <p>Bdoggy, you the programming man</p>
         </div>
         <div className='extra'>
           <span>Submitted</span>
